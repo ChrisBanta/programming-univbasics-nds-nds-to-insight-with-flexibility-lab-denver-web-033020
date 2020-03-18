@@ -21,8 +21,7 @@ def flatten_a_o_a(aoa)
   result
 end
 
-
-binding.binding.pry
+binding.pry
 
 def movie_with_director_name(director_name, movie_data)
   {
