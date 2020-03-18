@@ -34,7 +34,7 @@ end
 
 
 # Your code after this point
-
+binding.pry
 
 def movies_with_director_key(name, movies_collection)
 
