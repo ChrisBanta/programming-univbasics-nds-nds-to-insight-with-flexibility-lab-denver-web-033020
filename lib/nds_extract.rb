@@ -111,7 +111,7 @@ def movies_with_directors_set(source)
 
   a_o_a_movies_by_dir
 end
-end
+
   # GOAL: For each director, find their :movies Array and stick it in a new Array
   #
   # INPUT:
